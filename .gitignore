@@ -1,0 +1,17 @@
+# Ignorar o ambiente virtual
+env/
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas de compilação e distribuição
+build/
+dist/
